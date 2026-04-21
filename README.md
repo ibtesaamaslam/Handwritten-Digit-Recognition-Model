@@ -393,7 +393,7 @@ Contributions are welcome! Here's how to get started:
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/ibtesaamaslam/Handwritten-Digit-Recognition-Model.git
+git clone https://github.com/[USER-NAME]/Handwritten-Digit-Recognition-Model.git
 
 # 3. Create a feature branch
 git checkout -b feature/add-streamlit-app
