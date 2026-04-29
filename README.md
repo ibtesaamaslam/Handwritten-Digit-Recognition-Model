@@ -1,3 +1,7 @@
+
+<img width="1924" height="1243" alt="Gemini_Generated_Image_pqcev5pqcev5pqce" src="https://github.com/user-attachments/assets/33fdf68d-5fc8-4884-938f-8f5e533cce91" />
+<br>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -7,7 +11,7 @@
 <img src="https://img.shields.io/badge/Accuracy-~99%25-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 # ✍️ Handwritten Digit Recognition Model
 ### *CNN · MNIST · TensorFlow · Keras*
